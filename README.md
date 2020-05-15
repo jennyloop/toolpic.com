@@ -1,6 +1,6 @@
 # toolpic.com
 Photoshop Online free photo editor
-toolpic.com
+https://www.toolpic.com
 toolpic is a free online tool for editing raster 🎨 and vector graphics with support for PSD, XCF and Sketch files.
 
 Since toolpic is not fully open-source, this account serves as a place for bug reports and general discussion.
